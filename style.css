@@ -1,0 +1,75 @@
+body {
+    background-image: url(images/map-of-the-world-2401458_1920.jpg);
+    background-size: 100%;
+}
+
+
+.header {
+    margin-top: 0;
+    background-color: lightgray;
+    border-bottom: 2px solid black;
+}
+
+
+.img {
+    width: 400px;
+    height: 400px;
+    margin: 35px;
+    position: relative;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.gallery {
+    margin-top: 100px;
+    background-image: url(images/dynamic-style.png);
+    border: 2px solid black;
+    padding: 30px;
+    margin-bottom: 100px;
+
+}
+
+
+.info {
+    margin-top: 100px;
+    background-color: lightgray;
+    border: 2px solid black;
+    padding: 30px;
+    margin-bottom: 100px;
+    background-image: url(images/dynamic-style.png);
+    overflow: auto;
+
+}
+
+p {
+    line-height: 26px;
+    float: left;
+    position: relative;
+
+}
+
+.contact-info {
+    margin: 100px;
+    margin-right: 350px;
+    margin-left: 350px;
+    background-image: url(images/dynamic-style.png);
+    border: 2px solid black;
+    padding: 100px;
+    padding-bottom: 70px;
+    padding-top: 50px;
+    line-height: 40px;
+    width: 58%;
+
+}
+
+.footer {
+    text-align: center;
+    background-color: lightgray;
+    border-top: 2px solid black;
+    position: sticky;
+    bottom: 0;
+}
+
+.posted {
+    padding: 30px;
+}
