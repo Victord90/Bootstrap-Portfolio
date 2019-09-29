@@ -18,6 +18,9 @@ body {
     position: relative;
     margin-bottom: 30px;
     margin-top: 30px;
+    overflow: auto;
+    font-size: 20px;
+    
 }
 
 .gallery {
@@ -50,12 +53,12 @@ p {
 }
 
 .contact-info {
-    margin: 100px;
-    margin-right: 350px;
-    margin-left: 350px;
+    margin-top: 100px;
+    margin-left: 20%;
+    margin-bottom: 100px;
     background-image: url(images/dynamic-style.png);
     border: 2px solid black;
-    padding: 100px;
+    padding: 7%;
     padding-bottom: 70px;
     padding-top: 50px;
     line-height: 40px;
