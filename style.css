@@ -42,9 +42,10 @@ body {
 }
 
 p {
-    line-height: 26px;
+    line-height: 1.8;
     float: left;
     position: relative;
+    font-size: 24px;
 
 }
 
@@ -60,6 +61,16 @@ p {
     line-height: 40px;
     width: 58%;
 
+}
+
+h1 {
+    width: 95%;
+    position: relative;
+    border-bottom: 3px solid black;
+    padding: 15px;
+    margin-bottom: 50px;
+    font-size: 36px;
+    
 }
 
 .footer {
